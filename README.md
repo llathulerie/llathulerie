@@ -1,16 +1,38 @@
-## Hi there 👋
+## Lenry Lathulerie
 
-<!--
-**llathulerie/llathulerie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cloud Engineer** | 15+ years in Tier-1 Telecom → FinOps → Cybersecurity
 
-Here are some ideas to get you started:
+Currently transitioning into **FinOps** and **Security Architecture**, working towards a CISO role.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Background
+
+- 15+ years managing WAN/IP/MPLS infrastructure at Tier-1 operators (Claro, Movistar, Netlife)
+- M.Sc. Telecommunications — La Salle URL, Barcelona
+- Cybersecurity Implementation & Management — La Salle URL, Barcelona (2026)
+- M.Sc. Cybersecurity Management — La Salle URL, Barcelona (starting Feb 2027)
+
+### Current focus
+
+- ☁️ Multi-cloud: Azure · AWS · GCP
+- 💰 FinOps: cost optimization, allocation, governance
+- 🛡️ Security: SOC deployment, identity governance, zero-trust
+- 🏗️ IaC: Terraform · Ansible · GitHub Actions
+- 🔧 Networking: MikroTik · WireGuard · BGP · VoIP
+
+### Certifications
+
+- 🎯 Microsoft Certified: Azure Administrator Associate (AZ-104) — in progress
+- 🎯 FinOps Certified Practitioner (FOCP) — planned
+- 🎯 Azure Security Engineer (AZ-500) — planned
+
+### Projects
+
+- **[RoadmapMultiCloud-ES](https://github.com/llathulerie/RoadmapMultiCloud-ES)** — Cloud & FinOps certification roadmap in Spanish
+- **SyntlasSecurityNet** — Self-managed SOC deployed on multi-country infrastructure (private)
+
+### Connect
+
+- 📍 Barcelona, Spain
+- 🔗 [LinkedIn](www.linkedin.com/in/lenry-lathulerie-58524243)
