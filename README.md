@@ -9,7 +9,8 @@ Currently transitioning into **FinOps** and **Security Architecture**, working t
 ### Background
 
 - 15+ years managing WAN/IP/MPLS infrastructure at Tier-1 operators (Claro, Movistar, Netlife)
-- M.Sc. Telecommunications — La Salle URL, Barcelona
+- Specialization in Digital Telecommunications — Universidad Central de Venezuela
+- M.Sc. Networks and Telecommunications Services — La Salle URL, Barcelona
 - Cybersecurity Implementation & Management — La Salle URL, Barcelona (2026)
 - M.Sc. Cybersecurity Management — La Salle URL, Barcelona (starting Feb 2027)
 
