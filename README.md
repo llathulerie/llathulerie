@@ -15,7 +15,7 @@ Currently transitioning into **FinOps** and **Security Architecture**, working t
 
 ### Current focus
 
-- ☁️ Multi-cloud: Azure · AWS · GCP
+- ☁️ Multi-cloud: Azure · AWS · GCP · OCI 
 - 💰 FinOps: cost optimization, allocation, governance
 - 🛡️ Security: SOC deployment, identity governance, zero-trust
 - 🏗️ IaC: Terraform · Ansible · GitHub Actions
